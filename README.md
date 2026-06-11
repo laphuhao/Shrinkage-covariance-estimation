@@ -78,5 +78,5 @@ Python · NumPy · Pandas · SciPy · statsmodels · matplotlib
 ---
 
 ## 👤 Author
-**La Phu Hao** — Ho Chi Minh University of Banking
+**La Phu Hao** - Ho Chi Minh University of Banking
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/laphuhao)
